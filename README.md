@@ -143,7 +143,11 @@ Objeto: Sphere (Esfera)
 
 ![Imagem - Esfera](https://user-images.githubusercontent.com/46049252/56478950-db5ac680-6488-11e9-97bf-394a2a300a7c.png)
 
+Objeto: Cone 
+
 ![Imagem - Cone](https://user-images.githubusercontent.com/46049252/56478952-df86e400-6488-11e9-91cb-40d980ced573.png)
+
+Objeto: Coliseu 
 
 ![Imagem - Coliseu](https://user-images.githubusercontent.com/46049252/56478955-e31a6b00-6488-11e9-9be1-2c2ec22dc9d8.png)
 
@@ -162,6 +166,7 @@ Perspectivas de visualização na tela.
 
 1 – Tutorial de Utilização de OpenGl – Marcionílio Barbosa Sobrinho – Belo Horizonte –
 MG – 2003
+
 2 – Introdução à OpenGL - Professora Isabel Harb Manssour –
 https://www.inf.pucrs.br/~manssour/OpenGL/Desenhando.html.
  Acesso em: 24/02/2019
