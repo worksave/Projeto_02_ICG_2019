@@ -68,20 +68,21 @@ multiplicação das matrizes.
 
 # Funções desenvolvidas:
 
-// Cria um menu com todos os objetos(.OBJ) carregados para exibição na tela:
-----------------------------------------------------------------------------------------------------------------------------------------
 void createMenu(void){} 
-
-// Mostra o .OBJ na tela de acordo com a escolha do usuário, definindo o ângulo de abertura da câmera e o aspecto da imagem:
 ----------------------------------------------------------------------------------------------------------------------------------------
+// Cria um menu com todos os objetos(.OBJ) carregados para exibição na tela:
+
+
 void display(void) {}
-
-// Função que imprime as coordenadas de um vértice.
 ----------------------------------------------------------------------------------------------------------------------------------------
+// Mostra o .OBJ na tela de acordo com a escolha do usuário, definindo o ângulo de abertura da câmera e o aspecto da imagem:
+
 void printVector(obj_vector *v) {}
+----------------------------------------------------------------------------------------------------------------------------------------
+// Função que imprime as coordenadas de um vértice.
+
 
 // No main, os arquivos são carregados a partir de um file(.cpp) e uma file(.h) chamadas objLoader() e outro obj_parser(.cpp e .h) que // lida com a entrada dos dados, caso o carregamento do modelo dê erro:
-----------------------------------------------------------------------------------------------------------------------------------------
 int main(int argc, char **argv) {} 
 
 ----------------------------------------------------------------------------------------------------------------------------------------
