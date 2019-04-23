@@ -81,11 +81,10 @@ void printVector(obj_vector *v) {}
 ----------------------------------------------------------------------------------------------------------------------------------------
 // Função que imprime as coordenadas de um vértice.
 
-
-// No main, os arquivos são carregados a partir de um file(.cpp) e uma file(.h) chamadas objLoader() e outro obj_parser(.cpp e .h) que // lida com a entrada dos dados, caso o carregamento do modelo dê erro:
 int main(int argc, char **argv) {} 
 
-----------------------------------------------------------------------------------------------------------------------------------------
+// No main, os arquivos são carregados a partir de um file(.cpp) e uma file(.h) chamadas objLoader() e outro obj_parser(.cpp e .h) que // lida com a entrada dos dados, caso o carregamento do modelo dê erro:
+
 objData = new objLoader();			// cria o objeto que carrega o modelo
 //objData->load("monkey_head2.obj");	// a carga do modelo é indicada através do nome do arquivo.
 // Neste caso, deve ser sempre do tipo OBJ.
