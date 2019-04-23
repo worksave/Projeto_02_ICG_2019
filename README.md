@@ -179,4 +179,4 @@ MG – 2003
 
 2 – Introdução à OpenGL - Professora Isabel Harb Manssour –
 https://www.inf.pucrs.br/~manssour/OpenGL/Desenhando.html.
- Acesso em: 24/02/2019
+ Acesso em: 20/04/2019
