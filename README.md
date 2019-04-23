@@ -117,6 +117,7 @@ está referenciado no final deste projeto.
 
 # RESULTADOS DE RENDERIZAÇÃO DE OUTROS OBJETOS
 
+Sendo assim, os resultados obtidos se assemelham, levando em conta a rasterização de linhas dos arquivos .obj.
 Os resultados obtidos são os mostrados nas figuras abaixo:
 
 Objeto: TorreDiPizza (Torre de Pizza) 
@@ -158,6 +159,11 @@ Objeto: Horse (Cavalo)
 Objeto: Gourd (cabaça) 
 
 ![Imagem - Cabaca](https://user-images.githubusercontent.com/46049252/56478963-e9a8e280-6488-11e9-8dc3-ee8e9bf713b8.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+# OBs: 
+Nos arquivos, também encontrada-se um documento .pdf com mais especificações do trabalho.
 
 # Dificuldades encontradas:
 Perspectivas de visualização na tela.
