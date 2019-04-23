@@ -69,18 +69,22 @@ multiplicação das matrizes.
 # Funções desenvolvidas:
 
 // Cria um menu com todos os objetos(.OBJ) carregados para exibição na tela:
+----------------------------------------------------------------------------------------------------------------------------------------
 void createMenu(void){} 
 
-// Mostra o .OBJ na tela de acordo com a escolha do usuário, definindo o ângulo de abertura 
-// da câmera e o aspecto da imagem:
+// Mostra o .OBJ na tela de acordo com a escolha do usuário, definindo o ângulo de abertura da câmera e o aspecto da imagem:
+----------------------------------------------------------------------------------------------------------------------------------------
 void display(void) {}
 
 // Função que imprime as coordenadas de um vértice.
+----------------------------------------------------------------------------------------------------------------------------------------
 void printVector(obj_vector *v) {}
 
-// No main, os arquivos são carregados a partir de um file(.cpp) e uma file(.h) chamadas objLoader()
-// E outro obj_parser(.cpp e .h) que lida com a entrada dos dados, caso o carregamento do modelo dê erro:
+// No main, os arquivos são carregados a partir de um file(.cpp) e uma file(.h) chamadas objLoader() e outro obj_parser(.cpp e .h) que // lida com a entrada dos dados, caso o carregamento do modelo dê erro:
+----------------------------------------------------------------------------------------------------------------------------------------
 int main(int argc, char **argv) {} 
+
+----------------------------------------------------------------------------------------------------------------------------------------
 objData = new objLoader();			// cria o objeto que carrega o modelo
 //objData->load("monkey_head2.obj");	// a carga do modelo é indicada através do nome do arquivo.
 // Neste caso, deve ser sempre do tipo OBJ.
@@ -118,7 +122,7 @@ está referenciado no final deste projeto.
 # RESULTADOS DE RENDERIZAÇÃO DE OUTROS OBJETOS
 
 Sendo assim, os resultados obtidos se assemelham, levando em conta a rasterização de linhas dos arquivos .obj.
-Os resultados obtidos são os mostrados nas figuras abaixo:
+Os resultados obtidos são os mostrados nas imagens abaixo:
 
 Objeto: TorreDiPizza (Torre de Pizza) 
 
